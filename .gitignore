@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# VisualStudio
+.vs
+
+# JetBrains
+.idea
+
+# Vim
+*.swp
